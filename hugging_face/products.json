@@ -1,0 +1,210 @@
+﻿{
+    "products":  [
+                     {
+                         "id":  "M001",
+                         "category":  "apparel",
+                         "in_stock":  true,
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "reviews_count":  124,
+                         "colors":  [
+                                        "black",
+                                        "white"
+                                    ],
+                         "name":  "Crew Neck T-Shirt",
+                         "price":  19.99,
+                         "brand":  "Acme",
+                         "currency":  "USD",
+                         "images":  [
+                                        "https://example.com/M001.jpg"
+                                    ],
+                         "rating":  4.3,
+                         "description":  "Soft cotton tee.",
+                         "gender":  "men"
+                     },
+                     {
+                         "id":  "M002",
+                         "category":  "apparel",
+                         "in_stock":  true,
+                         "sizes":  [
+                                       "30",
+                                       "32",
+                                       "34",
+                                       "36"
+                                   ],
+                         "reviews_count":  87,
+                         "colors":  [
+                                        "dark-blue",
+                                        "black"
+                                    ],
+                         "name":  "Slim Fit Jeans",
+                         "price":  49.99,
+                         "brand":  "DenimCo",
+                         "currency":  "USD",
+                         "images":  [
+                                        "https://example.com/M002.jpg"
+                                    ],
+                         "rating":  4.5,
+                         "description":  "Stretch denim.",
+                         "gender":  "men"
+                     },
+                     {
+                         "id":  "M003",
+                         "category":  "shoes",
+                         "in_stock":  true,
+                         "sizes":  [
+                                       7,
+                                       8,
+                                       9,
+                                       10,
+                                       11
+                                   ],
+                         "reviews_count":  56,
+                         "colors":  [
+                                        "gray",
+                                        "blue"
+                                    ],
+                         "name":  "Running Sneakers",
+                         "price":  79.99,
+                         "brand":  "FleetRun",
+                         "currency":  "USD",
+                         "images":  [
+                                        "https://example.com/M003.jpg"
+                                    ],
+                         "rating":  4.2,
+                         "description":  "Lightweight runners.",
+                         "gender":  "men"
+                     },
+                     {
+                         "id":  "M004",
+                         "category":  "accessories",
+                         "in_stock":  true,
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L"
+                                   ],
+                         "reviews_count":  33,
+                         "colors":  [
+                                        "brown",
+                                        "black"
+                                    ],
+                         "name":  "Leather Belt",
+                         "price":  24.99,
+                         "brand":  "Crafted",
+                         "currency":  "USD",
+                         "images":  [
+                                        "https://example.com/M004.jpg"
+                                    ],
+                         "rating":  4.1,
+                         "description":  "Full-grain belt.",
+                         "gender":  "men"
+                     },
+                     {
+                         "id":  "W001",
+                         "category":  "apparel",
+                         "in_stock":  true,
+                         "sizes":  [
+                                       "XS",
+                                       "S",
+                                       "M",
+                                       "L"
+                                   ],
+                         "reviews_count":  312,
+                         "colors":  [
+                                        "black",
+                                        "maroon"
+                                    ],
+                         "name":  "High-Waist Leggings",
+                         "price":  29.99,
+                         "brand":  "FlexFit",
+                         "currency":  "USD",
+                         "images":  [
+                                        "https://example.com/W001.jpg"
+                                    ],
+                         "rating":  4.7,
+                         "description":  "Moisture-wicking.",
+                         "gender":  "women"
+                     },
+                     {
+                         "id":  "W002",
+                         "category":  "shoes",
+                         "in_stock":  true,
+                         "sizes":  [
+                                       5,
+                                       6,
+                                       7,
+                                       8,
+                                       9
+                                   ],
+                         "reviews_count":  98,
+                         "colors":  [
+                                        "rose",
+                                        "white"
+                                    ],
+                         "name":  "Running Shoes",
+                         "price":  74.99,
+                         "brand":  "Stride",
+                         "currency":  "USD",
+                         "images":  [
+                                        "https://example.com/W002.jpg"
+                                    ],
+                         "rating":  4.4,
+                         "description":  "Breathable mesh.",
+                         "gender":  "women"
+                     },
+                     {
+                         "id":  "W003",
+                         "category":  "apparel",
+                         "in_stock":  true,
+                         "sizes":  [
+                                       "XS",
+                                       "S",
+                                       "M",
+                                       "L"
+                                   ],
+                         "reviews_count":  145,
+                         "colors":  [
+                                        "light-blue",
+                                        "mid-blue"
+                                    ],
+                         "name":  "Denim Jacket",
+                         "price":  59.99,
+                         "brand":  "DenimCo",
+                         "currency":  "USD",
+                         "images":  [
+                                        "https://example.com/W003.jpg"
+                                    ],
+                         "rating":  4.5,
+                         "description":  "Classic fit jacket.",
+                         "gender":  "women"
+                     },
+                     {
+                         "id":  "W004",
+                         "category":  "accessories",
+                         "in_stock":  true,
+                         "sizes":  [
+                                       "one-size"
+                                   ],
+                         "reviews_count":  67,
+                         "colors":  [
+                                        "tan",
+                                        "black"
+                                    ],
+                         "name":  "Crossbody Bag",
+                         "price":  34.99,
+                         "brand":  "UrbanCarry",
+                         "currency":  "USD",
+                         "images":  [
+                                        "https://example.com/W004.jpg"
+                                    ],
+                         "rating":  4.3,
+                         "description":  "Compact crossbody.",
+                         "gender":  "women"
+                     }
+                 ]
+}
